@@ -8,7 +8,6 @@ I'm studying Engineering at PUC (Chile).
 
 - 🔭 Currently in the major of Transportation Systems Engineering
 - 🌱 I'm interested in learning
-  - Advanced Python
   - Julia
   - C++
   - Scientific Computing
