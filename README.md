@@ -6,7 +6,7 @@
 
 I'm studying Engineering at PUC (Chile).
 
-- 🔭 Currently in the major of Transportation Systems Engineering
+- 🔭 Currently in the major of Operations Research
 - 🌱 I'm interested in learning
   - Julia
   - C++
